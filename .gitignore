@@ -1,0 +1,12 @@
+.DS_Store
+generate-fake-file.app
+.env
+.venv
+.tools
+.li
+.cl
+.clp
+.build
+.dist
+build
+dist
